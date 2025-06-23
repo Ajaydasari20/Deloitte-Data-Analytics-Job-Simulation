@@ -35,6 +35,18 @@ The job simulation covered:
 ---
 
 ## 📁 File Structure
+Deloitte-Data-Analytics-Job-Simulation/
+│
+├── 📊 Tableau_Dashboard/
+│   └── tableau_dashboard_screenshot.jpg
+│
+├── 📄 Equality_Analysis/
+│   └── Task5_Equality_Table.xlsx
+│
+├── 📜 Certificate/
+│   └── Deloitte_Data_Analytics_Completion_Certificate.pdf
+│
+├── README.md
 ---
 
 ## 🧠 Tools Used
