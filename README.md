@@ -46,7 +46,7 @@ The job simulation covered:
 
 ## 👤 Author
 Ajay Dasari  
-[LinkedIn Profile](https://www.linkedin.com/in/ajaydasarii20)
+[LinkedIn Profile](https://www.linkedin.com/in/ajay-dasari-384174228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
